@@ -18,6 +18,7 @@ body {
   background-color: rgba(255, 228, 196, 0.53);
   background-image: url(/topitem.PNG);
   background-repeat: repeat-x;
+  background-position-x: 9.5%;
   height: 40vh;
   width: 90vw;
   margin: auto;
