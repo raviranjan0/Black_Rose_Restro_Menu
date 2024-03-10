@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Marko One", serif;
+}
+
+body {
+  background-color: rgba(245, 126, 22, 0.65);
+  background-size: 500px;
+  background-image: url(/bg.PNG);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.name {
+  background-color: rgba(255, 228, 196, 0.53);
+  background-image: url(/topitem.PNG);
+  background-repeat: repeat-x;
+  height: 40vh;
+  width: 90vw;
+  margin: auto;
+  padding: 10px;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  padding-top: 50px;
+}
+.name,
+p {
+  text-align: center;
+}
+#location {
+  font-style: italic;
+}
+
+h3 {
+  padding-top: 10px;
+  display: inline;
+  font-style: italic;
+}
+
+#timing {
+  font-style: italic;
+  padding-top: 10px;
+}
+.items,
+ul,
+li,
+a {
+  list-style: none;
+  text-decoration: none;
+  padding: 10px;
+  color: rgba(128, 0, 128, 0.664);
+}
+
+.Appetizers {
+  text-align: center;
+}
+
+h2 {
+  color: rgb(255, 115, 0);
+  margin-top: 5px;
+  padding: 40px;
+}
+
+.discription {
+  font-style: italic;
+}
+
+.food h4 {
+  text-align: left;
+  margin-left: 70px;
+  padding: 20px;
+}
+
+.new-item {
+  font-style: italic;
+}
+
+.food p {
+  text-align: start;
+  margin-left: 130px;
+}
+
+.title {
+  text-align: center;
+}
